@@ -5,7 +5,7 @@
 
 - Developed by Saba Aghajani
   
-- Technologies Used - Html5, Css3 , Swiperjs , React
+- Technologies Used - Html5, Css3 , Swiper , React
 
 - Role - Frontend
 
